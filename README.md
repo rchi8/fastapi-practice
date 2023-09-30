@@ -6,6 +6,16 @@ https://chat.openai.com/share/e46744c7-6b69-4ebe-88f6-184b947c7a35
 ## [feature/hello-world] Hello Worldまで
 https://chat.openai.com/share/e46744c7-6b69-4ebe-88f6-184b947c7a35
 
+## [feature/routers] ルータの作成
+https://chat.openai.com/share/e46744c7-6b69-4ebe-88f6-184b947c7a35
+
+
+
+
+
+
+
+
 
 ## REST API の解説
 REST API（Representational State Transfer Application Programming Interface）とは、ウェブサービスなどのAPIを設計するためのアーキテクチャスタイルの一つです。APIとは、異なるソフトウェア同士がやりとりをするための「橋」のようなものですが、RESTはそのやりとりがどのように行われるかの「ルール」を提供します。🌉
