@@ -9,7 +9,8 @@ https://chat.openai.com/share/e46744c7-6b69-4ebe-88f6-184b947c7a35
 ## [feature/routers] ルータの作成
 https://chat.openai.com/share/e46744c7-6b69-4ebe-88f6-184b947c7a35
 
-
+## [feature/schemas] レスポンス/リクエスト作成
+https://chat.openai.com/share/e46744c7-6b69-4ebe-88f6-184b947c7a35
 
 
 
