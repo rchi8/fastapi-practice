@@ -1,8 +1,7 @@
 # fastapi-practice
 https://chat.openai.com/share/fbd655e9-9a58-4cc9-80c0-736ba770ac34
 
-
-##　[feature/docker] Docker環境の構築
+## [feature/docker] Docker環境の構築
 
 
 ## [feature/hello-world] Hello Worldまで
